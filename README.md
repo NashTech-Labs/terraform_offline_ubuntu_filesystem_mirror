@@ -37,7 +37,11 @@ export TF_PLUGIN_CACHE_DIR="c:/tf_cache"
 export TF_CLI_CONFIG_FILE="c:/tf_cache/terraform.rc"
   ```
 
-
-
+## Step 4: 
+Now just run 
+```
+terraform init
+  ```
+It will take the cache from the registry.terraform.io in tf_cache directory
 
 
